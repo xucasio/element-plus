@@ -2,7 +2,7 @@
   <div class="flex gap-4">
     <div>
       <div class="sub-title my-2 text-sm text-gray-600">
-        list suggestions when activated
+        list suggestions when activated11
       </div>
       <el-autocomplete
         v-model="state1"
